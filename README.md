@@ -1,2 +1,2 @@
-# Java-Basics-
+# Java-Basics
 Java Language (Basics)
